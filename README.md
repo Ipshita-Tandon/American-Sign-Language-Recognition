@@ -43,10 +43,25 @@ https://www.kaggle.com/datasets/datamunge/sign-language-mnist <br/><br/>
 1. Image Preprocessing: Resizing and normalization of images to prepare them for model classification.
 2. Real-time Image Capture: Capturing images from the webcam to test the model's ability to recognize ASL gestures in real-time.
 
+## Results and Evaluation
+The model achieves an impressive accuracy of 98% on the test dataset. A confusion matrix is generated to visualize the performance across different classes and a grapph is plotted to visualise the training and testing data loss.
+
 ## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your suggested improvements.
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/your-feature).
+5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details <br/>
+For any questions or feedback, please contact me at:
 
+## Contact Me
+For any questions or feedback, please contact me at:
 
+* Email: ipshitatandon@gmail.com
+* Linkedin: https://www.linkedin.com/in/ipshita-tandon-505157257/
+* GitHub: https://github.com/Ipshita-Tandon/localsphere
