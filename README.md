@@ -43,4 +43,10 @@ https://www.kaggle.com/datasets/datamunge/sign-language-mnist <br/><br/>
 1. Image Preprocessing: Resizing and normalization of images to prepare them for model classification.
 2. Real-time Image Capture: Capturing images from the webcam to test the model's ability to recognize ASL gestures in real-time.
 
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your suggested improvements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details
+
 
